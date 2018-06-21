@@ -17,11 +17,13 @@ public class Validation {
 		int randomNumber = randomMaker.nextInt(5);
 		
 		// 2. On paper, write all the numbers that get printed when you run this class 10 times
-		
+		//2,0,3,1,2,3,2,2,4,2,
 		System.out.println(randomNumber);
 
 		// 3. Use each value of randomNumber to give the user a random compliment.
-
+if(randomNumber == (1)) {
+	
+}
 		// 4. Repeat all the code above 10 times
 		
 		// 5. Find someone to test out your program. They will like it :)
