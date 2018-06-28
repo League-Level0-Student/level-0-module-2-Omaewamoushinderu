@@ -30,7 +30,7 @@ public class RockPaperScissors extends JPanel implements ActionListener{
 	private Icon scissorsImage;
 
 	private Dimension buttonDim = new Dimension(300, 200);
-    
+
     public void run(){
 
 		try {
