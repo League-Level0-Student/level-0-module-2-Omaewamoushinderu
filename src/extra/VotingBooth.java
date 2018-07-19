@@ -11,7 +11,7 @@ public class VotingBooth {
 			JOptionPane.showInputDialog("Who do you vote for?");
 
 		} else {
-			JOptionPane.showMessageDialog(null, "NO ONE CARES ABOUT WHAT YOU WANT YOU'RE  CHILD!!tch. Peasent");
+		JOptionPane.showMessageDialog(null, "NO ONE CARES ABOUT WHAT YOU WANT YOU'RE  CHILD!!tch. Peasent");
 		}
 	}
 }
